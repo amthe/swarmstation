@@ -7,6 +7,10 @@
     <link rel="preload" as="script" href="https://cdn.ampproject.org/v0.js">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
     <script async custom-element="amp-audio" src="https://cdn.ampproject.org/v0/amp-audio-0.1.js"></script>
+    <script async custom-element="amp-anim" src="https://cdn.ampproject.org/v0/amp-anim-0.1.js"></script>
+    <script async custom-element="amp-video" src="https://cdn.ampproject.org/v0/amp-video-0.1.js"></script>
+
+
 
     <script type="text/javascript" src="https://hosted.muses.org/mrp.js"></script>
     <!-- Import other AMP Extensions here -->
@@ -65,7 +69,22 @@
   <body>
     
     <div id="console">
-        <img src="swarmstation2.gif">
+        <amp-anim width="400" height="300" src="my-gif.gif">
+            <amp-img placeholder width="400" height="300" src="swarmstation2.gif">
+            </amp-img>
+          </amp-anim>
+
+        <amp-video width="720"
+          height="405"
+          src="swarmstation2.webm"
+          layout="responsive"
+          controls
+          autoplay>
+          <div fallback>
+            <p>Your browser doesn't support HTML5 video.</p>
+          </div>
+        </amp-video>
+        
         <span id="a">root@swarmstation</span>:<span id="b">~</span><span id="c">$</span> cat intro.txt<br/><br/>
             This <b>internet radio station</b> tries to immerse you in a certain feeling. To let you escape for a moment, hear relaxing music and enjoy this feeling.
             This station is independent and non-commercial, we are doing it out of love for this music.<br/>
