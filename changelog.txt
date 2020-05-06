@@ -1,0 +1,90 @@
+--------------------------------------------
+Version 0.0.4 (May 05th, 2020)
+--------------------------------------------
+
+Settings:
+- Crossfade length 5 to 10
+- Fade in 0.5 to 2
+- Fade out 0.5 to 2
+- Station Identification 10 to 20
+
+Standard Rotation:
+- REMOVED Stand by mode 
+- REMOVED Scott Holmes 10 Alien Wasteland
+- REMOVED Convicted Jazz Malaventura 13 Convicted Jazz Drones
+- REMOVED Uuriter 06 Machines String Interlude
+- REMOVED The Freeharmonic Orchestra 12 No Robots Unthunk & Tapes & Tubes
+- REMOVED The Freeharmonic Orchestra 20 Égaré·e Small Colin & gentil
+- REMOVED Uuriter 07 White Factory
+- REMOVED Uuriter 10 Post Drone
+- REMOVED Scott Holmes 09 Spaceship Fly By
+
+Light Rotation:
+- ADDED Crows Labyrinth - Our Last Dream - 01 Our Last Dream
+- ADDED Crows Labyrinth - Our Last Dream - 02 Our Last Dream - Single Version
+- ADDED Crows Labyrinth - Travels - 07 Heliograph
+- ADDED Crows Labyrinth - Consolation - 04 Consolation (HD Bonus Track)
+- ADDED Crows Labyrinth - Consolation - 06 Responder (HD Bonus Track)
+- ADDED Crows Labyrinth - Travels - 06 Below
+- ADDED Crows Labyrinth & Microvolt - .​.​.​ending the year on a high 2013 (waag com002) - 04 We Are All Spacedust Anyway
+
+Night Playlist:
+- ADDED SANA OBRUENT - A Return To The Ballroom (Remaster) - 01 Blue Moon
+
+
+--------------------------------------------
+Version 0.0.3 (November 27th, 2019)
+--------------------------------------------
+
+Standard Rotation:
+- ADDED Colonial Skyway-All That Happens Above Us
+
+--------------------------------------------
+Version 0.0.2 (November 27th, 2019)
+--------------------------------------------
+
+Standard Rotation:
+- ADDED Arbitrary values.wav
+- ADDED Atom and Eve.wav
+- ADDED Gasping for air.wav
+- ADDED Made by man.wav
+- ADDED Mobile suit.wav
+- ADDED ʎ ɹ ɐ ɹ o d ɯ ǝ ʇ   s ı   ƃ u ı ɥ ʇ ʎ ɹ ǝ ʌ ǝ.wav
+- ADDED Faux Tapes - Curtains.wav
+- ADDED Faux Tapes - Happy accident.wav
+- ADDED Faux Tapes - Losing today.wav
+- ADDED Faux Tapes - Low tide.wav
+- ADDED Faux Tapes - Misty gradient.wav
+
+--------------------------------------------
+Version 0.0.1 (September 14th, 2019)
+--------------------------------------------
+
+Standard Rotation (Original Playlist):
+- ADDED 02 airglow
+- ADDED 04 light years
+- ADDED 05 in time
+- ADDED 06 cepheid
+- ADDED 08 ultra deep field
+- ADDED 09 eternity
+- ADDED 10 messier 45
+- ADDED Malaventura 13 Convicted Jazz Drones
+- ADDED Scott Holmes 09 Spaceship Fly By
+- ADDED Scott Holmes 10 Alien Wasteland
+- ADDED The Freeharmonic Orchestra 08 Nixblicker Jahzzar & Nic Bommarito
+- ADDED The Freeharmonic Orchestra 12 No Robots Unthunk & Tapes & Tubes
+- ADDED The Freeharmonic Orchestra 14 Skeptics Nic Bommarito & Blue Dot Sessions
+- ADDED The Freeharmonic Orchestra 17 Bogey half cocked & Steve Combs
+- ADDED The Freeharmonic Orchestra 19 Smooth as Glass Blue Dot Sessions & simon mathewson
+- ADDED The Freeharmonic Orchestra 20 Égaré·e Small Colin & gentil
+- ADDED Uuriter 01 Homeland
+- ADDED Uuriter 02 Magnetic Fields
+- ADDED Uuriter 03 Standby Mode
+- ADDED Uuriter 04 I Cant Remember
+- ADDED Uuriter 05 Years And Years
+- ADDED Uuriter 06 Machines String Interlude
+- ADDED Uuriter 07 White Factory
+- ADDED Uuriter 08 Routine Drone
+- ADDED Uuriter 10 Post Drone
+- ADDED Uuriter 11 Homeland Cassette
+- ADDED Various Artists 03 The final days of the Space Cowboys
