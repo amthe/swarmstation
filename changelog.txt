@@ -38,7 +38,7 @@ Night Playlist:
 Version 0.0.3 (November 27th, 2019)
 --------------------------------------------
 
-Standard Rotation:
+Light Rotation:
 - ADDED Colonial Skyway-All That Happens Above Us
 
 --------------------------------------------
